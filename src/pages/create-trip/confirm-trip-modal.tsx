@@ -51,6 +51,6 @@ export function ConfirmTripModal({
                 </button>
                 </form>
             </div>
-            </div>
+        </div>
     )
 }
